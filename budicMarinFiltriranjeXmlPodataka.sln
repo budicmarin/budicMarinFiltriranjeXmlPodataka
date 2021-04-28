@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "budicMarinFiltriranjeXmlPodataka", "budicMarinFiltriranjeXmlPodataka.csproj", "{16A07E62-186A-4EA9-A9B2-DE73AD8DD306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A07E62-186A-4EA9-A9B2-DE73AD8DD306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A07E62-186A-4EA9-A9B2-DE73AD8DD306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A07E62-186A-4EA9-A9B2-DE73AD8DD306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A07E62-186A-4EA9-A9B2-DE73AD8DD306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E46C95C-5B71-4627-A1F3-A23B2C7561BB}
+	EndGlobalSection
+EndGlobal
